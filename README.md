@@ -28,21 +28,22 @@ El proyecto fue desarrollado con tecnologías web base, sin frameworks, prioriza
 - JavaScript Vanilla
 
 ## Estructura del proyecto
-
-cafateria-vanilla/
+```txt 
+cafeteria-vanilla/
 │
 ├── css/
 │   └── style.css
 │
 ├── img/
-│   └── imágenes del sitio
+│   └── [Imágenes del sitio]
 │
 ├── scripts/
 │   └── script.js
 │
 ├── index.html
 ├── LICENSE
-└── README.md 
+└── README.md
+```
 
 ## Objetivo del proyecto
 
