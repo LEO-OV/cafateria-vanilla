@@ -29,7 +29,6 @@ El proyecto fue desarrollado con tecnologías web base, sin frameworks, prioriza
 
 ## Estructura del proyecto
 
-```text
 cafateria-vanilla/
 │
 ├── css/
@@ -49,5 +48,5 @@ cafateria-vanilla/
 
 Este proyecto tiene como objetivo practicar la construcción de interfaces web estáticas con HTML, CSS y JavaScript, aplicando estructura semántica, diseño responsive, organización visual y manipulación básica del DOM.
 
-Autor
+## Autor
 Desarrollado por **Leonardo Velasco Ojeda**.
